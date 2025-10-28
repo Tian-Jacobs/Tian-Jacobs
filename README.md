@@ -46,13 +46,6 @@ Check out my full portfolio here 👉 [**my-portfolio-swart-gamma-32.vercel.app*
 
 ---
 
-## 📈 GitHub Stats
-
-![Tian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tian-Jacobs&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tian-Jacobs&layout=compact&theme=radical)
-
----
-
 ## 🌐 Connect With Me
 
 🌎 **Portfolio:** [my-portfolio-swart-gamma-32.vercel.app](https://my-portfolio-swart-gamma-32.vercel.app/)  
